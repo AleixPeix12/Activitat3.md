@@ -22,9 +22,50 @@ G PARA ELEGIR K PARA MATAR
 5. Amb la comanda htop mostra el percentatge de la memòria
 6. ![image](https://github.com/user-attachments/assets/c7026aaa-ec1f-40d9-b853-322e711899f7)
  Obre el programa calculadora i busca'l.
-Indica el seu PID. 
+Indica el seu PID.
+
 ![image](https://github.com/user-attachments/assets/0bfa8660-1b9e-4d9e-b80d-b851715469ec)
 • Mata el procés. 
+
 ![image](https://github.com/user-attachments/assets/f6d10384-dd23-400f-a436-914463663cbc)
 • Amb el monitor de recursos mostra l'activitat de xarxa. 
+
 ![image](https://github.com/user-attachments/assets/6e20171a-b889-46c5-af43-04dad8594b0c)
+
+• Amb Sistema de fitxers mostra l'espai lliure a /home.
+
+![image](https://github.com/user-attachments/assets/a871e159-3739-44e5-9ee7-07e5857949ea)
+
+• mostra l'espai lliure a l'arrel del sistema.
+
+![image](https://github.com/user-attachments/assets/2ae83ab2-564e-45b9-ad57-8db21697ba99)
+
+7. Monitoratge: 
+• Crea la carpeta /prova 
+• Busca a /var/log/auth.log l'esdeveniment on es registra que has creat la  carpeta.
+
+![image](https://github.com/user-attachments/assets/098de540-7f1f-4f9f-9d58-3c31303cca18)
+
+
+• Busca l'esdeveniment on es registra que l'has eliminat. 
+
+![image](https://github.com/user-attachments/assets/796112e4-de8b-44f9-8769-e0ff5223ca6d)
+
+• Busca l'esdeveniment on es registra que l'has eliminat. 
+
+![image](https://github.com/user-attachments/assets/ea7b1655-5a0c-4ef5-a59a-530a1a0f7b1d)
+
+• Mostra els registres d'error de dmesg. 
+
+![image](https://github.com/user-attachments/assets/47ba0f7a-7305-4925-b978-5eeeefbb14a7)
+
+• Mostra de forma gràfica els registres d'aplicacions del sistema. 
+
+![image](https://github.com/user-attachments/assets/066d49f0-861f-4954-aec2-5b1094e916de)
+
+• Obre una aplicació i mostra el registre a l'aplicació gràfica.
+
+![Uploading image.png…]()
+
+
+
